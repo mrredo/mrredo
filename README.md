@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on golang
 - 📫 How to reach me golang
 - making amongus contributions thing
-- 7y 4x
+- 7y 4x goes from 
 <!---
 no
 --->
