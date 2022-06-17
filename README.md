@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on golang
 - 📫 How to reach me golang
-- making amongus contributions thing
 <!---
 no
 --->
