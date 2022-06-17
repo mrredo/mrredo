@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on golang
 - 📫 How to reach me golang
 - making amongus contributions thing
-- 7y 4x goes from 5th June till 30th June amongus sus
 <!---
 no
 --->
