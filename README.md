@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @mrredo golang
-- 👀 I’m interested in golang
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on golang
-- 📫 How to reach me golang
-- Preparing for a competition(Learning c++)
-<!---
-no
---->
+![](https://github-readme-stats.vercel.app/api?username=mrredo&count_private=true&show_icons=true&locale=en&include_all_commits=true?locale=en)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mrredo&count_private=true&show_icons=true&locale=en&include_all_commits=true?locale=en)
