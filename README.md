@@ -129,6 +129,9 @@ EduAssist consists of three independent applications:
 ![Architecture](https://img.shields.io/badge/Dependencies-Zero_Third__Party-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+<details>
+<summary><b>View Algorithmic Features & Data Structures</b></summary>
+
 #### ✨ Key Algorithmic Features
 
 - 🎯 **Multi-Index Hybrid Search:** Combines Inverted Index, Trie, Phonetic Index, and BK-Trees for instant, relevant retrieval.
@@ -146,7 +149,9 @@ EduAssist consists of three independent applications:
 | **B-Tree** | Price range and date queries | $\mathcal{O}(\log n)$ |
 | **Phonetic Index** | Sound-alike search matching | $\mathcal{O}(1 + k)$ |
 
-🔗 **Repository:** [mrredo/algoritmi-6-smr](https://github.com/mrredo/algoritmi-6-smr)
+</details>
+
+🔗 **Repository:** [mrredo/GoSearch-Engine](https://github.com/mrredo/GoSearch-Engine)
 
 ---
 
@@ -228,8 +233,8 @@ EduAssist consists of three independent applications:
 <p align="left">
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
   <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
   <a href="https://www.sqlite.org"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
 </p>
 
