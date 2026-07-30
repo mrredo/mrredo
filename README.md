@@ -15,27 +15,89 @@ Mani sauc Rihards šajā lapā slēpjos zem segvārda `mrredo`.
 - 🌍 React Router v7 websites
 
 ## Featured Projects
-## ⭐ EduAssist
+# ⭐ EduAssist
 
-A modern school timetable platform consisting of three applications that work together to provide students and school administrators with real-time timetable management.
+> A modern school timetable platform built as a distributed system for students and school administrators.
+![Go](https://img.shields.io/badge/Go-1.25-00ADD8?logo=go)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql)
+![CI/CD](https://img.shields.io/badge/CI/CD-Fully_Automated-success)
+![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+🌐 **Website:** https://eduassist.site/
 
-### 🏗️ Architecture
+---
+
+## 🏗️ Architecture
 
 | Component | Technology |
 |-----------|------------|
-| 📱 Mobile App | Flutter |
-| ⚙️ Backend API | Go, Gin |
-| 🛠️ Admin Panel | Laravel, Filament |
+| 📱 Mobile Application | Flutter |
+| ⚙️ REST API | Go • Gin |
+| 🛠️ Administration Panel | Laravel • Filament |
 | 🗄️ Database | PostgreSQL |
+| 🚀 CI/CD | Automated build & deployment pipeline |
 
-### ✨ Features
+---
 
-- 📅 Interactive timetables
+## ✨ Features
+
+- 📅 Interactive school timetables
 - 🔄 Real-time substitution updates
-- 🔔 Push notifications for sudden timetable changes
-- ⚙️ Dynamic school configuration through the admin panel
-- 🕒 Accurate lesson period timings
-- 🍽️ Lunch availability indicator showing cafeteria occupancy
+- 🔔 Instant push notifications for sudden timetable changes
+- ⚙️ Dynamic school configuration managed from the admin panel
+- 🕒 Accurate lesson period scheduling
+- 🍽️ Lunch availability indicator based on timetable analysis
+- 📥 Direct application downloads from the website
+- 🔄 Automatic in-app updates without relying on Google Play
+
+---
+
+## 🚀 DevOps
+
+The entire deployment pipeline is fully automated.
+
+- Automatic backend deployments
+- Automatic admin panel deployments
+- Automatic Flutter application builds
+- Automatic release generation
+- Custom update server for Android applications
+- Version management outside of Google Play
+- Zero manual deployment steps
+
+---
+
+## 📦 Repository Structure
+
+EduAssist consists of three independent applications:
+
+📱 **eduassist-mobile**
+- Flutter
+- Push notifications
+- Custom update system
+
+⚙️ **eduassist-backend**
+- Go
+- Gin
+- PostgreSQL
+- REST API
+
+🛠️ **eduassist-admin**
+- Laravel
+- Filament
+- PostgreSQL
+- School configuration management
+
+---
+
+## 💡 Highlights
+
+- Production-ready architecture
+- Fully automated CI/CD pipeline
+- Custom Android update infrastructure
+- Modular multi-service architecture
+- PostgreSQL-backed configuration system
+- Designed for scalability and maintainability
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrredo&label=Profile%20views&color=0e75b6&style=flat" alt="mrredo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrredo" alt="mrredo" /></a> </p>
