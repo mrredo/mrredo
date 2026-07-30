@@ -14,7 +14,7 @@ Mani sauc Rihards šajā lapā slēpjos zem segvārda `mrredo`.
 - 📱 Flutter mobile applications
 - 🌍 React Router v7 websites
 
-## Features Projects
+## Featured Projects
 ## ⭐ EduAssist
 
 A modern school timetable platform consisting of three applications that work together to provide students and school administrators with real-time timetable management.
