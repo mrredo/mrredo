@@ -35,6 +35,9 @@ My name is Rihards, but online I'm known by `mrredo`.
 ![CI/CD](https://img.shields.io/badge/CI/CD-Fully_Automated-success)
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
 
+<details>
+<summary><b>View Architecture & DevOps Details</b></summary>
+
 #### 🏗️ Architecture
 
 | Component | Technology |
@@ -114,6 +117,8 @@ EduAssist consists of three independent applications:
 - PostgreSQL-backed configuration system
 - Designed for scalability and maintainability
 
+</details>
+
 ---
 
 ### ⭐ GoSearch Engine
@@ -141,7 +146,43 @@ EduAssist consists of three independent applications:
 | **B-Tree** | Price range and date queries | $\mathcal{O}(\log n)$ |
 | **Phonetic Index** | Sound-alike search matching | $\mathcal{O}(1 + k)$ |
 
-🔗 **Repository:** [mrredo/GoSearch-Engine](https://github.com/mrredo/GoSearch-Engine)
+🔗 **Repository:** [mrredo/algoritmi-6-smr](https://github.com/mrredo/algoritmi-6-smr)
+
+---
+
+### ⭐ Library Management System
+
+> A comprehensive, Dockerized library resource and book borrowing management system built with Laravel and Filament.
+
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-10%2B-FF2D20?logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+<details>
+<summary><b>View Architecture & Features</b></summary>
+
+#### 🏗️ Architecture & Infrastructure
+
+| Component | Technology |
+|-----------|------------|
+| ⚙️ Backend Framework | Laravel |
+| 🛠️ Admin Panel | Filament PHP |
+| 🗄️ Database | MySQL (ACID Compliant) |
+| 🐳 Deployment | Docker |
+
+#### ✨ Key Features
+
+- 👥 **Role-Based Access Control:** Distinct panels and permissions for Guests, Registered Users, and Administrators using Laravel Policies.
+- 📚 **Resource Management:** Full CRUD capabilities for books, authors, genres, and languages.
+- 🔄 **Borrowing System:** Automated book checkout requests, return tracking, and overdue penalty calculations.
+- 🔍 **Optimized Search:** Fast filtering and searching powered by well-structured database indexing.
+- 🔒 **Security First:** Prepared SQL statements for injection prevention, data validation, and secure password hashing.
+
+</details>
+
+🔗 **Repository:** [mrredo/library-system](https://github.com/mrredo/library-system)
 
 ---
 
@@ -233,4 +274,5 @@ EduAssist consists of three independent applications:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/mrredogaming8885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrredogaming8885" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrredo" target="blank"><img
+<a href="https://www.leetcode.com/mrredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrredo" height="30" width="40" /></a>
+</p>
