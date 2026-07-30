@@ -121,6 +121,43 @@ EduAssist consists of three independent applications:
 - Modular multi-service architecture
 - PostgreSQL-backed configuration system
 - Designed for scalability and maintainability
+
+# ⭐ GoSearch Engine
+
+> A high-performance, zero-dependency product search and autocomplete engine built with Go standard library and custom algorithmic data structures.
+
+![Go](https://img.shields.io/badge/Go-1.25-00ADD8?logo=go)
+![Architecture](https://img.shields.io/badge/Dependencies-Zero_Third__Party-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
+## ✨ Key Algorithmic Features
+
+- 🎯 **Multi-Index Hybrid Search:** Combines Inverted Index, Trie, Phonetic Index, and BK-Trees for instant, relevant retrieval.
+- 🔤 **Autocomplete Engine:** Fast prefix lookup using custom Trie structures.
+- 💡 **Fuzzy Matching:** Levenshtein-distance based BK-Tree implementation for typo tolerance.
+- ⚡ **High Efficiency:** Sub-millisecond lookup times for datasets up to 100,000 items.
+
+---
+
+## 🛠️ Data Structures Implemented
+
+| Data Structure | Purpose | Search Complexity |
+|:---|:---|:---:|
+| **Inverted Index** | Full-text product term matching | $\mathcal{O}(1 + k)$ |
+| **Trie** | Fast prefix autocomplete | $\mathcal{O}(m)$ |
+| **BK-Tree** | Typo-tolerant / Fuzzy search | $\mathcal{O}(\log n)$ avg |
+| **B-Tree** | Price range and date queries | $\mathcal{O}(\log n)$ |
+| **Phonetic Index** | Sound-alike search matching | $\mathcal{O}(1 + k)$ |
+
+---
+
+🔗 **Repository:** [mrredo/algoritmi-6-smr](https://github.com/mrredo/algoritmi-6-smr)
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrredo&label=Profile%20views&color=0e75b6&style=flat" alt="mrredo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrredo" alt="mrredo" /></a> </p>
