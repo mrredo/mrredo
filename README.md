@@ -153,7 +153,7 @@ EduAssist consists of three independent applications:
 
 ---
 
-🔗 **Repository:** [mrredo/algoritmi-6-smr](https://github.com/mrredo/algoritmi-6-smr)
+🔗 **Repository:** [mrredo/GoSearch-Engine](https://github.com/mrredo/GoSearch-Engine)
 
 
 
