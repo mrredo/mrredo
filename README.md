@@ -18,6 +18,7 @@ Mani sauc Rihards šajā lapā slēpjos zem segvārda `mrredo`.
 # ⭐ EduAssist
 
 > A modern school timetable platform built as a distributed system for students and school administrators.
+
 🌐 **Website:** https://eduassist.site/
 
 ![Go](https://img.shields.io/badge/Go-1.25-00ADD8?logo=go)
@@ -54,17 +55,38 @@ Mani sauc Rihards šajā lapā slēpjos zem segvārda `mrredo`.
 
 ---
 
-## 🚀 DevOps
+## 🚀 DevOps & Infrastructure
 
-The entire deployment pipeline is fully automated.
+EduAssist is deployed using a fully automated CI/CD pipeline.
 
-- Automatic backend deployments
-- Automatic admin panel deployments
-- Automatic Flutter application builds
-- Automatic release generation
-- Custom update server for Android applications
-- Version management outside of Google Play
-- Zero manual deployment steps
+### Technologies
+
+- 🐳 Docker
+- 🌐 Nginx
+- ⚙️ GitHub Actions
+- 🗄️ PostgreSQL
+
+### Pipeline
+
+- ✅ Automatic builds on every push
+- ✅ Automated backend deployment
+- ✅ Automated admin panel deployment
+- ✅ Flutter Android release builds
+- ✅ Automatic Docker image creation
+- ✅ Zero-downtime service updates
+- ✅ Reverse proxy configured with Nginx
+- ✅ HTTPS with SSL certificates
+- ✅ Production server hosting
+
+### Mobile Updates
+
+Instead of Google Play updates, EduAssist uses a custom update system.
+
+- 📥 Downloads directly from https://eduassist.site/
+- 🔄 In-app update checking
+- 📦 Automatic APK version management
+- 🚀 Instant release distribution
+- ❌ No dependency on Google Play
 
 ---
 
