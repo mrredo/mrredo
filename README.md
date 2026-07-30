@@ -18,13 +18,14 @@ Mani sauc Rihards šajā lapā slēpjos zem segvārda `mrredo`.
 # ⭐ EduAssist
 
 > A modern school timetable platform built as a distributed system for students and school administrators.
+🌐 **Website:** https://eduassist.site/
+
 ![Go](https://img.shields.io/badge/Go-1.25-00ADD8?logo=go)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
 ![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Fully_Automated-success)
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
-🌐 **Website:** https://eduassist.site/
 
 ---
 
