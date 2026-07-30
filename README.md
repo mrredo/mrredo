@@ -1,7 +1,10 @@
 # Par mani
 Mani sauc Rihards šajā lapā slēpjos zem segvārda `mrredo`.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrredo&label=Profile%20views&color=0e75b6&style=flat" alt="mrredo" /> </p>
 
-## A passionate frontend developer from India
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrredo" alt="mrredo" /></a> </p>
+
+## A passionate full-stack developer from Latvia
 - 💻 Building scalable backend systems with Go and Laravel
 - 📱 Developing cross-platform applications with Flutter
 - ☁️ Interested in distributed systems, DevOps and high-performance APIs
@@ -158,9 +161,6 @@ EduAssist consists of three independent applications:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrredo&label=Profile%20views&color=0e75b6&style=flat" alt="mrredo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrredo" alt="mrredo" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
