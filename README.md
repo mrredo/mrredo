@@ -14,6 +14,28 @@ Mani sauc Rihards šajā lapā slēpjos zem segvārda `mrredo`.
 - 📱 Flutter mobile applications
 - 🌍 React Router v7 websites
 
+## Features Projects
+## ⭐ EduAssist
+
+A modern school timetable platform consisting of three applications that work together to provide students and school administrators with real-time timetable management.
+
+### 🏗️ Architecture
+
+| Component | Technology |
+|-----------|------------|
+| 📱 Mobile App | Flutter |
+| ⚙️ Backend API | Go, Gin |
+| 🛠️ Admin Panel | Laravel, Filament |
+| 🗄️ Database | PostgreSQL |
+
+### ✨ Features
+
+- 📅 Interactive timetables
+- 🔄 Real-time substitution updates
+- 🔔 Push notifications for sudden timetable changes
+- ⚙️ Dynamic school configuration through the admin panel
+- 🕒 Accurate lesson period timings
+- 🍽️ Lunch availability indicator showing cafeteria occupancy
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrredo&label=Profile%20views&color=0e75b6&style=flat" alt="mrredo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrredo" alt="mrredo" /></a> </p>
