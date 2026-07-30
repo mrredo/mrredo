@@ -1,8 +1,18 @@
 # Par mani
 Mani sauc Rihards šajā lapā slēpjos zem segvārda `mrredo`.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+## A passionate frontend developer from India
+- 💻 Building scalable backend systems with Go and Laravel
+- 📱 Developing cross-platform applications with Flutter
+- ☁️ Interested in distributed systems, DevOps and high-performance APIs
+- 🎯 Always learning something new every day
 
+## 🚀 Currently working on
+
+- 📅 EduAssist - timetable application
+- ⚡ High performance Go backend APIs
+- 📱 Flutter mobile applications
+- 🌍 React Router v7 websites
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrredo&label=Profile%20views&color=0e75b6&style=flat" alt="mrredo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrredo" alt="mrredo" /></a> </p>
