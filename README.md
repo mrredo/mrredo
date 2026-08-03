@@ -3,7 +3,7 @@ My name is Rihards, but online I'm known by `mrredo`.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrredo&label=Profile%20views&color=0e75b6&style=flat" alt="mrredo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrredo" alt="mrredo" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrredo" alt="mrredo" /></a> </p> -->
 
 ## A passionate full-stack developer from Latvia
 - 💻 Building scalable backend systems with Go and Laravel
@@ -254,25 +254,25 @@ EduAssist consists of three independent applications:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrredo&show_icons=true&locale=en" alt="mrredo" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrredo&show_icons=true&locale=en&layout=compact" alt="mrredo" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrredo&" alt="mrredo" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrredo&count_private=true&show_icons=true&locale=en&include_all_commits=true?locale=en" alt="mrredo commits" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrredo&count_private=true&show_icons=true&locale=en&include_all_commits=true?locale=en" alt="mrredo top langs private" />
-</p>
+</p> -->
 
 ---
 
